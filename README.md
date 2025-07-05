@@ -2,6 +2,13 @@
 
 This is an interactive Power BI dashboard project to analyze mobile sales performance across various regions and timeframes.
 
+## Tools Used
+- Microsoft Power BI
+- DAX Measures
+- Data Cleaning in Power Query
+- Visualizations: Bar chart, Line chart, Pie chart, Slicer
+
+
 ---
 
 ## 📸 Dashboard Screenshots
