@@ -12,8 +12,6 @@ This is an interactive Power BI dashboard project to analyze mobile sales perfor
 ### 🔹 Sales Performance
 ![Sales](Screenshot%202025-07-05%20224535.png)
 
-### 🔹 Category-wise View
 ![Categories](Screenshot%202025-07-05%20224614.png)
 
-### 🔹 Trend Line
 ![Trend](Screenshot%202025-07-05%20224701.png)
